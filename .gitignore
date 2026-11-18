@@ -1,0 +1,14 @@
+# Xcode kullaniciya ozel veriler
+xcuserdata/
+*.xcuserstate
+
+# Derleme ciktilari
+DerivedData/
+build/
+
+# macOS klasor bilgisi
+.DS_Store
+
+# Claude Code: kisisel izinler ve gecici isaret dosyasi
+.claude/settings.local.json
+.claude/hooks/.swift-changed
